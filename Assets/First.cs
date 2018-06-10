@@ -5,8 +5,6 @@ using UnityEngine;
 public class First : MonoBehaviour
 {
 
-    int i = 0;
-    int j = 0;
 
     // Use this for initialization
     void Start()
